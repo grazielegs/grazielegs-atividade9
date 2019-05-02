@@ -5,4 +5,4 @@ export class Veiculo {
   ipva: number;
   tipo: string;
 }
-export const marcas: string[] = ['Mitsubishi', 'BMW', 'Nissan'];
+export const marcas: string[] = ['Fiat', 'Ford', 'GM', 'Volksvagem'];
